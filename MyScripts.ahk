@@ -13,7 +13,3 @@ return
 ; Alt + b for bulletpoint
 !b::SendEvent {ASC 0149}
 return
-
-; Ctrl + Shift + c to launch gVim
-^+c::Run "C:\Program Files (x86)\Vim\vim74\gvim.exe"
-return
