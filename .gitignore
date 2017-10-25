@@ -1,1 +1,24 @@
-"$(git status --porcelain | grep '^??' | cut -c4-)" 
+AU3_Spy.exe
+Activities
+Activities~
+AutoHotkey Website.url
+AutoHotkey.chm
+AutoHotkey.exe
+AutoHotkeyA32.exe
+AutoHotkeyU32.exe
+AutoHotkeyU64.exe
+Compiler/ANSI 32-bit.bin
+Compiler/Ahk2Exe.exe
+Compiler/AutoHotkeySC.bin
+Compiler/Unicode 32-bit.bin
+Compiler/Unicode 64-bit.bin
+Installer.ahk
+MetrOpos2.log
+TimWest.ahk
+TimWest.ahk~
+TimWest.exe
+_.swn
+_.swo
+_.swp
+goodvim.scripts.txt
+license.txt
